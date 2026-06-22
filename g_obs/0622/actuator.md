@@ -8,8 +8,8 @@
 | Hip Roll    | 133.3 | 8.796 |
 | Hip Yaw     | 100.0 | 3.419 |
 | Knee Pitch  | 150.0 | 8.654 |
-| Ankle Pitch |  20.0 |   5.0 |
-| Ankle Roll  |  27.4 |  6.85 |
+| Ankle Pitch |  40.0 |   1.0 |
+| Ankle Roll  |  54.8 |  1.37 |
 
 *Left and right legs use the same gains.*
 
